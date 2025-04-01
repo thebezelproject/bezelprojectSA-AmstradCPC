@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-AmstradCPC/blob/master/retroarch/overlay/GameBezels/AmstradCPC/3D%20Grand%20Prix%20(Europe).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-AmstradCPC/blob/master/retroarch/overlay/GameBezels/AmstradCPC/3D%20Grand%20Prix%20(1985)(Amsoft).png?raw=true)
